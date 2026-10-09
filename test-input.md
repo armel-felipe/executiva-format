@@ -1,0 +1,3 @@
+# Teste de Entrada - Exemplo Operacional
+
+"Pessoal, nas reuniões do comitê de operações notamos que a aprovação de compras acima de 10 mil reais está demorando quase 15 dias corridos. O time de compras fica cobrando a diretoria por e-mail, perdemos prazos de fornecedores e alguns descontos negociados. Analisando o fluxo, vimos que a assinatura passa por três diretores de áreas diferentes que não precisam validar esse valor. Se tirarmos duas assinaturas e deixarmos só o VP da área afetada, o fluxo vai andar muito mais rápido e não vamos perder os descontos. Precisamos ver se vocês concordam com isso."
